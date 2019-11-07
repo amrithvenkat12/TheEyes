@@ -4,6 +4,7 @@ Learn to work in GitLab
 
 Learn the programming nuances.
 
+share links and upload papers of any concept you find into the folder *Research*
 
 
 _____________________________
