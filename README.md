@@ -1,6 +1,9 @@
-This is our first time making a collaborative project.
+Research week started.
 
-We are all using Ubuntu 16.04.6. Download it at https://nextcloud.th-deg.de/s/HJzmqHppXFRdT6N
+Learn to work in GitLab
+
+Learn the programming nuances.
+
 
 
 _____________________________
