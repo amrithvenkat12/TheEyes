@@ -3,21 +3,21 @@ Logbook Juan Valencia:
 Week 45:
     * Project Start.
     * Created the schedule, the GitLab project and the table of contents.
-
-Week 46:
     * Installed Ubuntu as a Virtual Machine running on top of Windows. Works very slowly. Discarded the idea.
+    
+Week 46:
+    * Malik came my home and helped me to setup Ubuntu. Installed Ubuntu as a boot OS. Now it properly works.
     * We found multiple lane videos, tutorials and codes. We picked one.
     * The code works 100% on given images and videos from original owner.
 
 Week 47:
-    * Installed Ubuntu as a boot OS. Now it properly works.
     * Worked on migrating the code from the static images to connect it with the camera.
     * Managed to set up ROS, openCV and Visual Studio. 
     * Managed to acces the webcam driver using uvcdynctrl and edit its parameters such as: contrast, brightness, etc. 
-    * First time working in the LAS. Simon helped to set up ROS and they gave me a tested webcam for me to program at home. It serves as a simulation tool.
+    * First time working in the LAS. Simon helped to set up ROS, rviz, and they gave me a tested webcam for me to program at home. It serves as a simulation tool.
 
 Week 48:
-    * Wrote the first "Hello World" Program.
+    * Wrote the first "Hello World" Program. I can read the webcam data, write text, crop the image and run openCV code.
     * The team met at my home for everybody to install Ubuntu and make it work.
     * Worked in the LAS. Run camera_calibration code for the first time in the webcam. It worked fine although it crashes when writing the output matrixes. Saved a .YML file in /temp folder to use the matrixes later.
 
