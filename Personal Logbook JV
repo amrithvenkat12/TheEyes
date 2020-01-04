@@ -44,6 +44,7 @@ Week 52 2019 and week 1 2020 (Holidays)
     * Adjusted the Warping points to fit the new test video taken.
     * Discarded the yellow lines filter because we won't have yellow lines in the tracks. All of them are white only.
     * Discarded the original ranged thresholding for the white lines.
+    * Modified the load_parameters.py file to transfer the save the source points and mode. Useful for visualizing the area that is going to be warped. 
     * I have been testing different thresholding techniques, including adaptative and gaussian adaptative.
     * The code can estimate the FPS needed. This should vary greatly deppending on the running CPU.
     * Locating the next box is currently done by the average mean of the current points. I've been working on changing this to make a linear fit and try to predict where to put the next Box.
