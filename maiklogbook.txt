@@ -1,0 +1,70 @@
+Logbook Malik Javadov:
+
+•	Week 45:
+		o	Initial steps toward the project.
+		o	Understanding Gitlab environment and gave some ideas about the group division
+		o	Studied about Ubuntu OS and tried to dual boot the PC along with Windows after unsuccessful Virtual machine method.						
+
+•	Week 46:
+		o	Increasing amount of trials on Ubuntu 16.04 LTS OS due to low hardware specs of my PC.
+		o	Trying to understand Ubuntu 16.04 LTS since it is my first OS try besides Windows.
+		o	Setting up all Ubuntu 16.04 LTS in working condition and properly working. 
+		o	Started to learn about Terminal commands and get on well with Ubuntu.
+
+•	Week 47: 
+		o	Going through most of the documents available in google in search of perception techniques used in automotive industry currently. 
+		o	Reading lots of Research papers which could have enhanced camera perception.
+		o	Starting to understand the importance of Python and OpenCV2 
+
+•	Week 48:
+		o	Watching online tutorials on as much as I can from YouTube, ResearchGate and etc. in support of understanding camera perception and the uses of OpenCV2. 
+		o	Configuring PC to open some premade projects and playing with them to understand the conceptual basics. 
+		o	This took me a while, and I did not stop watching tutorials of python with OpenCV and learned more on Camera perception in autonomous cars.
+
+
+
+•	Week 49: 
+		o	A very tedious week for me because of under-actuating capabilities of my PC.
+		o	Decided to buy new PC , and very long time spent on selecting most optimum PC that can open this programs and can also fit my budget.
+
+•	Week 50:
+		o	After a lot of trials I managed to catch a discount on specific PC from DELL.
+		o	However, there were screen issues, so my order was declined.
+		o	Therefore, I had to find another PC.
+		o	Spending most of my time on PC selecting besides I was still watching tutorials and learning from my friend’s PC for that I had to go to Kenan’s home every day. 
+		o	Me and Kenan finally, decided to go to MediaMarkt in Passau to buy the specific PC that I can buy. 
+		o	For that, I had to take some lone from my friend, thanks to him supporting me with 700 euro as a long-term loan. 
+
+•	Week 51: 
+		o	Finally I got my new PC and tried to settle up all the previous configurations and settings as in my older PC.
+		o	But them, I discovered that my new PC does not support Ubuntu 16 at all. 
+		o	This was a bigger challenge as well as disappointment. 
+		o	Thank to Amrith in support of booting my new PC into Ubuntu. 
+		o	However, I tried to take a help from THD’s IT engineer. 
+		o	He could not also solve the issue.
+		o	I decided to put new SSD and manage to make the device run into Ubuntu.
+		o	After a lot of unsuccessful tries I finally worked.
+		o	Unluckily most of my time was spoiled with Ubuntu and PC settings.
+		o	All these days of course I did not stop along with my other courses, I tried my best in studying ROS environment which was main package that enable us to bridge all the other scripts that other groups made to run the ADAS car.
+
+•	Week 52: 
+		o	Solving my PC issues took much of time, but I had always passion and managed to find a free server from some of the webpages that has already inbuilt ROS and Gazebo extensions.
+		o	After understanding and working in camera perception I was appointed to the simulation team now. 
+		o	I picked some other members: Amrith and Ranjith which thankfully tried their best as well ever since I asked help from them.
+		o	Following days of the week, we met constantly in school and some other dormitory study rooms and etc. to fully invest our times on simulation model.
+		o	Well, problems never left us apart, we basically had a lot trouble with ROS and Gazebo environment and tried to solve them. 
+		o	I was fully concentrated on understanding ROS and creating my own config and urdf files which are the most important files for Gazebo package to run the scripts in simulation world.
+		o	Designing a simulation model by typing code is different than simply adding them in Gazebo program.
+		o	Overall, it took my lots of time to research on the Gazebo and enable or modify ROS packages. 
+
+•	Week 2:
+		o	We had tried almost all available versions, applications, and packages to make our system work but could not have all the configurations as expected in the start of the course.
+		o	At the end, we had a mechanically simple designed but highly scripted Ackermann car package working on RViz which we used to visualize and debug the joint configurations and joint connections. 
+		o	Besides, Gazebo had made a lot of trouble while importing the custom designed road trace in Solidworks and Blender. So it resulted to an unsuccessful Gazebo file but successful Rviz program.
+		o	I wrote around 4 pages in report and helped to design the presentation. 
+		o	Helped Kenan to write the report’s other parts as well.
+
+Overall: 
+	Even though this projec cost me around 1100 Euro (buying new PC when not needed ), I am happy to take this project! I learned a lot about in Ubuntu OS, ROS , Python, Gazebo, Rviz and OpenCV. 
+	This project changed my vision into the industry and I am thankful to Professor Aydos in support to us regardless of time.
+	After understanding the importance of this area of engineering, I am currently convinced to step more into the Robotics and ROS development. 
