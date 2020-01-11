@@ -54,10 +54,9 @@ Week 52 2019 and week 1 2020 (Holidays)
     * The code is 100% working on the test video. I created a video showing the results (Tests.mp4).
     * I have finished doing all I can do in the test video. Now I have to wait for Week 2 when the LAS is open again and start testing on the car.
     
-Week 2 (expected):
-    * The car is now able to identify the lines.
-    * Working on driving the car with Simon's motor control node.
-    * Adjusting parameters to calculate curvatures of the road curves.
-    
-Week 3 (expected):
-    * The car succesfully drives itself across the track.
+Week 2:
+    * Adjusted the code on the ADAS and now it is able to identify the lines and make a lane along the track.
+    * Helped writing the report.
+
+Week 3:
+    * Helped making the presentation.
