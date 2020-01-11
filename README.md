@@ -23,10 +23,10 @@ How to run the project?
 3) Having run the bash file will open two softwares:
 - The rqt_bag software: All the recorded nodes are here. Right click the "camera_image_undistorted" node and click on publish. The node will now appear on ROS. At anytime from now on, you can play and pause the recording. The data will be published to the ROS node as if it were live.
 - Rviz software: It will using the default config file "/camera/src/rviz_config.rviz". This might not work for you because it's meant to run on my laptop specifics. So you may need to create a new rviz config file.
-    If the configuration file is recognized, you should see a big white screen with the label "no image". This is good. (The "no image" text will be replaced with the output data once you run step #4)
-    If it didn't work, rviz will be open and you will see the default workspace windows. Make sure to add the Image topic of the "camera_image_undistorted" node (You can only see the node one it has been launched on step #4). 
+If the configuration file is recognized, you should see a big white screen with the label "no image". This is good. (The "no image" text will be replaced with the output data once you run step #4)
+If it didn't work, rviz will be open and you will see the default workspace windows. Make sure to add the Image topic of the "camera_image_undistorted" node (You can only see the node one it has been launched on step #4). 
 
-    If this step was succesful, rviz should be ready to display the display the output once you start the python file on the next step and rqt_bag should be publishing the data to ROS.
+    If this step was succesful, rviz should be ready to display the video output once you start the python file on the next step and rqt_bag should be publishing the data to ROS.
   
 4) Run the main Python file: "/camera/src/camera_main.py". You can do it using the terminal or using your favorite text editor program. I personally used Visual Studio Code and click on the  button "Run Python File in Terminal". Remember to play the node on "rqt_bag". If the Python file is succesfully running, you should see on rviz an endless 20s loop with the Lane Algorithm running on it.
 
