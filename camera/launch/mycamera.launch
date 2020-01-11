@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="rviz" type="rviz" name="rviz_launch" args="-d $(find camera)/src/rviz_config.rviz"/>
+    <node pkg="rqt_bag" type="rqt_bag" name="rqt_bag" output="screen" args="--clock $(find camera)/src/bagfiles/with_cover.bag"/> <!--Remember to publish the node from rqt and play it-->
+    <!--node pkg="camera" type="camera_main.py" name="camera_node_launch"/--> <!--Keep camera_main.py commented to be able to run and stop it from Visual Studio Code-->
+    <!--
+    <node pkg="uvc_camera" type="uvc_camera_node" name="uvc_camera_launch" output="screen">
+        <param name="device" type="string" value="/dev/video0"/>
+        <param name="brightness" type="int" value="10"/>
+        <param name="fps" type="int" value="13"/>
+        <param name="camera_info_url" value="file://$(find YOUR_NOTENAME)/cal.yml" />
+        <param name="device" type="string" value="/dev/video0"/>
+        <param name="width" type="int" value="320"/>
+    </node>
+    -->
+</launch>
