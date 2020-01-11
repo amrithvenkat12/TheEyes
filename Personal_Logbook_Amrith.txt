@@ -1,0 +1,45 @@
+Logbook Amrith Venkat:
+
+Week 45:
+    * Project Start.
+    * Joined the GitLab workspace and helped set the initial files.
+    * Installed Ubuntu 18.04 as a Virtual Machine on Windows. Faced lot of problems. Installed Ubuntu 16.04 for the specific requirements as VM.
+    
+Week 46:
+    * Installed Ubuntu as a boot OS along with Windows 10.
+    * The QR code types were analysed and various available applications online and on phone were tested. 
+    * A working python Library and associated code snippets were obtained and tried on Python on the Ubuntu OS.
+    * Installed ROS and dependencies on Ubuntu.
+
+Week 47:
+    * Installed openCV and Visual Studio.
+    * Developed a code that could detect QR codes and tried incorporating data matrix detection
+    
+Week 48:
+    * The team met at Juan's home for everybody to install Ubuntu and make it work.
+    * Tried to implement QR code detection alog with Juan's basic lane detection code.
+    * Sought help from friends in India to get us started with the simulation basics ie the components needed to bring in models into Gazebo.
+    * Worked on bringing new objects and world configurations in Gazebo.
+
+Week 49 & Week 50:
+    * Group subgoal achieved- QR code detection.
+    * Moved on to working on Gazebo and ROS simulation parts.
+    * Less progress in modellling a World file.
+    * Faced issues in implementing readily available packages that could simulate a car due to OS and Gazebo version constraints. Had to browse for alternatives.
+    
+Week 51:
+    * Me, Ranjith and Malik met up at Malik's house and pondered over Gazebo.
+    * Managed to secure Student license for Solidworks so that we could model our own track.
+    * Downloaded a set of open-source software to aid adding color to the made model.
+
+Week 52 2019 and week 1 2020 (Holidays)
+    * Built a crude race track in Solidworks. Used Blender to make the colourful outputs.
+    * Tried to implement the same model in Gazebo along with the Ackermann Steering model with which Malik worked on.
+    * Succesful in importing both models but severe constraints in terms of outlook of the track model and functional constraints with Ackermann steering model.
+    
+Week 2 (expected):
+    * The car is now able to identify the lines and QR code.
+    * The simulation now works with a camera and a ROS node that relays video from the on-board camera's ROS node.
+    
+Week 3 (expected):
+    * The car succesfully drives itself across the track.
