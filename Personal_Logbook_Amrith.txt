@@ -17,7 +17,7 @@ Week 47:
     
 Week 48:
     * The team met at Juan's home for everybody to install Ubuntu and make it work.
-    * Tried to implement QR code detection alog with Juan's basic lane detection code.
+    * Tried to implement QR code detection alog with the basic lane detection code.
     * Sought help from friends in India to get us started with the simulation basics ie the components needed to bring in models into Gazebo.
     * Worked on bringing new objects and world configurations in Gazebo.
 
