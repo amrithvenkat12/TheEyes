@@ -14,6 +14,17 @@ Watch the 38 minute video "Ross Kippenbrock - Finding Lane Lines for Self Drivin
 You can find the video here: https://www.youtube.com/watch?v=VyLihutdsPk
 
 It is advised that you understand what is ROS, making catkin packages and general machine vision knowledge.
+
+Watch the Working Videos to see the project in action.
+_____________________________
+What setup do you need?
+ - Ubuntu 16.04
+ - Python 2.7
+ - Download only the camera folder. Convert it into a catkin package.
+ - Note: the camera/src/bagfiles folder is empty. I couldn't upload the bag file here in gitLab because the file size is 300Mb. You must download the file, name it "with_cover.bag" and put into the bagfiles folder. 
+
+
+
 _____________________________
 How to run the project?
 
