@@ -1,12 +1,10 @@
-First and beforehand, I want to thank Ross Kippenbrock for the "Finding Lane Lines for Self Driving Cars" video. His explanation is incredibly good and helped me.
-
-I also want to thank Li Wang for uploading a Lane Detection algorithm and making it publicly available. He has also, referenced those codes he used as well. 
+First and beforehand, I want to thank Li Wang for uploading a Lane Detection algorithm and making it publicly available. He has also, referenced those codes he used as well. 
 You can find his code here: https://github.com/liwangGT/CarND-Advanced-Lane-Lines
 Also he has a YouTube video here with the running program: https://www.youtube.com/watch?v=X8QN-qY7uIo
-
-With that said, welcome to our Lane Detection Project. The main goal here is detect lanes in a racing track utilizing the ADAS car and its camera. https://www.digitalwerk.net/adas-modellauto/
-
 In a brief, I took Li Wang's code, migrated it into ROS platform and adjusted/changed/added many things to make it work live on the ADAS car.
+
+With that said, welcome to our Lane Detection Project. The main goal here is detect lanes in a racing track utilizing the ADAS car and its camera. 
+You can find info about the ADAS car here: https://www.digitalwerk.net/adas-modellauto/
 
 If you are in need of a similar project running on ROS or using Machine Vision, feel free to use this code. 
 _____________________________
@@ -15,9 +13,7 @@ Knowledge required before running this code.
 Watch the 38 minute video "Ross Kippenbrock - Finding Lane Lines for Self Driving Cars" on YouTube. Then, you will understand clearly what is this code about.
 You can find the video here: https://www.youtube.com/watch?v=VyLihutdsPk
 
-It is advised that you understand what is ROS, katkin package and general machine vision knowledge.
-
-This was tested on Ubuntu 16.04 with Python 2.7.12 64-bit.
+It is advised that you understand what is ROS, making catkin packages and general machine vision knowledge.
 _____________________________
 How to run the project?
 
@@ -40,8 +36,10 @@ If it didn't work, rviz will be open and you will see the default workspace wind
 4) Run the main Python file: "/camera/src/camera_main.py". You can do it using the terminal or using your favorite text editor program. I personally used Visual Studio Code and click on the  button "Run Python File in Terminal". Remember to play the node on "rqt_bag". If the Python file is succesfully running, you should see on rviz an endless 20s loop with the Lane Algorithm running on it.
 
 
-Congratulations. You are ready to start modifying the code and take everything you need!
+Congratulations. You are ready to start modifying the code. Take anything you need!
 _________________________
 Motto: We See Everything.
 
 Song: The Eye of The Tiger.
+
+Project tested on Ubuntu 16.04 with Python 2.7.12 64-bit. 12/Jan/2020
