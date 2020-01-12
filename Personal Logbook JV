@@ -1,4 +1,4 @@
-Logbook Juan Valencia:
+Logbook Juan Valencia
 
 Week 45:
     * Project Start.
@@ -7,7 +7,7 @@ Week 45:
     
 Week 46:
     * Malik came my home and helped me to setup Ubuntu. Installed Ubuntu as a boot OS. Now it properly works.
-    * We found multiple lane videos, tutorials and codes. We picked one.
+    * Found multiple lane videos, tutorials and codes. We picked one.
     * The code works 100% on given images and videos from original owner.
 
 Week 47:
@@ -35,20 +35,20 @@ Week 50:
 
 Week 51:
     * Met Simon in LAS. We made a new track.
-    * We took a video from the onboard camera while running the ADAS across the track. This is a .bag file containing all the nodes information and using it as a Simulation.
-    * We also discused ideas and our codes. 
+    * Took a video from the onboard camera while running the ADAS across the track. This is a .bag file containing all the nodes information and using it as a Simulation.
+    * Discused ideas and our codes. 
     * Created a launch file and a .bash file. Now I don't have to open multiple terminals. Running a .bash file fromt the folder will start all the nodes and programs required.
      
-Week 52 2019 and week 1 2020 (Holidays)
+Week 52 2019 and week 1 2020 (Holidays):
     * Deleted the original flag INTER_LINEAR in the Warping method. There are more options to explore in OpenCV warpPerspective.
     * Adjusted the Warping points to fit the new test video taken.
     * Discarded the yellow lines filter because we won't have yellow lines in the tracks. All of them are white only.
     * Discarded the original ranged thresholding for the white lines.
     * Modified the load_parameters.py file to transfer the save the source points and mode. Useful for visualizing the area that is going to be warped. 
-    * I have been testing different thresholding techniques, including adaptative and gaussian adaptative.
+    * Tested different thresholding techniques, including adaptative and gaussian adaptative.
     * The code can estimate the FPS needed. This should vary greatly deppending on the running CPU.
     * Locating the next box is currently done by the average mean of the current points. I've been working on changing this to make a linear fit and try to predict where to put the next Box.
-    * The original code breaks down when there are no lines found. I fixed it by providing default lines and changing the lane color to red.
+    * Modified the original code. It breaks down when there are no lines found. I fixed it by providing default lines and changing the lane color to red.
     * Added detailed screens to the main steps of the program. Now it can visualize 2x2, 3x3 or 4x4 screens. 
     * Generated jpeg images for the report (Camera Distortion, Warping and Threshold Comparison).
     * The code is 100% working on the test video. I created a video showing the results (Tests.mp4).
@@ -60,3 +60,4 @@ Week 2:
 
 Week 3:
     * Helped making the presentation.
+    * Modified the entire GitLab repository. Now the code and the whole project is available to the public domain.
