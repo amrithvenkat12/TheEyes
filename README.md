@@ -21,7 +21,7 @@ What setup do you need?
  - Ubuntu 16.04
  - Python 2.7
  - Download only the camera folder. Convert it into a catkin package in src. It should look something like "/home/YOUR_USERNAME/catkin_ws/src/camera"
- - Note: the "/camera/src/bagfiles" folder is empty. I can't upload the bag file here in gitLab because the file size is 336Mb. You must download the file, name it "with_cover.bag" and put into the bagfiles folder. The bagfile is not mandatory though. You can optionally run the algorithm on a live camera or a video file. You must edit the main python file.
+ - Note: the "/camera/src/bagfiles" folder is empty. I can't upload the bag file here in gitLab because the file size (336Mb) is larger than the 10Mb limit. Instead, you can download the file, name it "with_cover.bag" and put into the bagfiles folder. The bagfile is not mandatory though. You can optionally run the algorithm on a live camera or a video file. You must edit the camera_main.py file.
 
 _____________________________
 How to run the project?
@@ -40,7 +40,7 @@ How to run the project?
 If the configuration file is recognized, you should see a big white screen with the label "no image". This is good. (The "no image" text will be replaced with the output data once you run step #4)
 If it didn't work, rviz will be open and you will see the default workspace windows. Make sure to add the Image topic of the "camera_image_undistorted" node (You can only see the node one it has been launched on step #4). 
 
-    If this step was succesful, rviz should be ready to display the video output once you start the python file on the next step and rqt_bag should be publishing the data to ROS.
+    If this step was succesful, rviz should be ready to display the video output once you start the python file on the next step and rqt_bag should be publishing the data as a node visible by ROS commands.
   
 4) Run the main Python file: "/camera/src/camera_main.py". You can do it using the terminal or using your favorite text editor program. I personally used Visual Studio Code and click on the  button "Run Python File in Terminal". Remember to play the node on "rqt_bag". If the Python file is succesfully running, you should see on rviz an endless 20s loop with the Lane Algorithm running on it.
 
