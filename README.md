@@ -20,17 +20,15 @@ _____________________________
 What setup do you need?
  - Ubuntu 16.04
  - Python 2.7
- - Download only the camera folder. Convert it into a catkin package.
- - Note: the camera/src/bagfiles folder is empty. I couldn't upload the bag file here in gitLab because the file size is 300Mb. You must download the file, name it "with_cover.bag" and put into the bagfiles folder. 
-
-
+ - Download only the camera folder. Convert it into a catkin package in src. It should look something like "/home/YOUR_USERNAME/catkin_ws/src/camera"
+ - Note: the "/camera/src/bagfiles" folder is empty. I can't upload the bag file here in gitLab because the file size is 336Mb. You must download the file, name it "with_cover.bag" and put into the bagfiles folder. The bagfile is not mandatory though. You can optionally run the algorithm on a live camera or a video file. You must edit the main python file.
 
 _____________________________
 How to run the project?
 
 1) Run this file "/camera/src/Run_Me.sh". This is a Bash file that will source the terminal and Start ROS with the camera launch file. It is possible that you need to edit file. Make sure it is an executable file and run it.
 
-2) Running the previous file will automatically execute the launch file "/catkin_ws/src/camera/launch/mycamera.launch". Put here all the nodes that you are going to be running (much better than running 1 node per terminal). I have commented some of them. The nodes are:
+2) Running the previous file will automatically execute the launch file "/camera/launch/mycamera.launch". Put here all the nodes that you are going to be running (much better than running 1 node per terminal). I have commented some of them. The nodes are:
     - rviz: For visualizing the live camera or video output, with the code running.
     - rqt_bag: This are bag files recorded from the ADAS car. We use this recorded nodes to run them as simulations where we test the lane code.
     - uvc_camera: This node connects to an usb webcam if you have one.
