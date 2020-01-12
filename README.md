@@ -8,14 +8,11 @@ You can find info about the ADAS car here: https://www.digitalwerk.net/adas-mode
 
 If you are in need of a similar project running on ROS or using Machine Vision, feel free to use this code. 
 _____________________________
-Knowledge required before running this code.
-
-Watch the 38 minute video "Ross Kippenbrock - Finding Lane Lines for Self Driving Cars" on YouTube. Then, you will understand clearly what is this code about.
+What Knowledge do you require before running this code?
+- Watch the 38 minute video "Ross Kippenbrock - Finding Lane Lines for Self Driving Cars" on YouTube. Then, you will understand clearly what is this code about.
 You can find the video here: https://www.youtube.com/watch?v=VyLihutdsPk
-
-It is advised that you understand what is ROS, making catkin packages and general machine vision knowledge.
-
-Watch the Working Videos to see the project in action.
+- It is advised that you understand what is ROS, making catkin packages and general machine vision knowledge.
+- Watch the Working Videos to see the project in action.
 _____________________________
 What setup do you need?
  - Ubuntu 16.04
