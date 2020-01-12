@@ -21,7 +21,8 @@ What setup do you need?
  - Ubuntu 16.04
  - Python 2.7
  - Download only the camera folder. Convert it into a catkin package in src. It should look something like "/home/YOUR_USERNAME/catkin_ws/src/camera"
- - Note: the "/camera/src/bagfiles" folder is empty. I can't upload the bag file here in gitLab because the file size (336Mb) is larger than the 10Mb limit. Instead, you can download the file, name it "with_cover.bag" and put into the bagfiles folder. The bagfile is not mandatory though. You can optionally run the algorithm on a live camera or a video file. You must edit the camera_main.py file.
+ - Note: the "/camera/src/bagfiles" folder is empty. I can't upload the bag file here in gitLab because the file size (336Mb) is larger than the 10Mb limit. Instead, you can download the file, name it "with_cover.bag" and put into the bagfiles folder. The bagfile is not mandatory though. https://nextcloud.th-deg.de/s/ETzpYfEtW4SHRwX
+ - You can optionally run the algorithm on a live camera or a video file without the bag file. You must edit the camera_main.py file.
 
 _____________________________
 How to run the project?
