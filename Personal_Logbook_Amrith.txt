@@ -37,9 +37,7 @@ Week 52 2019 and week 1 2020 (Holidays)
     * Tried to implement the same model in Gazebo along with the Ackermann Steering model with which Malik worked on.
     * Succesful in importing both models but severe constraints in terms of outlook of the track model and functional constraints with Ackermann steering model.
     
-Week 2 (expected):
+Week 2:
     * The car is now able to identify the lines and QR code.
     * The simulation now works with a camera and a ROS node that relays video from the on-board camera's ROS node.
     
-Week 3 (expected):
-    * The car succesfully drives itself across the track.
