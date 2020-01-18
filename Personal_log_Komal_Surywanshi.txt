@@ -1,0 +1,36 @@
+Logbook Komal Surywanshi:
+
+Week 45:
+    * Project Start.
+    * Joined the GitLab workspace and helped set the initial files.
+    * Started to study about the Simulation and Line Detection.
+    
+Week 46:
+    * Dint had laptop.
+    * Continued to understand the project.
+    * Took the sub project ROS Simulation and Gazebo.
+    
+Week 48:
+    * Sought help from friends to get us started with the simulation basics (i.e the components needed to bring in models into Gazebo).
+    * Worked on bringing new objects and world configurations in Gazebo. Created models in Solidworks which were only importable as .stl files and without color.
+    * Laptop's software crashed.
+
+Week 49 & Week 50:
+    * Bought laptop.
+    * Intall Unbuntu 16.04.
+    * Failed.
+    * Intalled Solidworks insted to make the track.
+    * Unable to import files.
+    
+Week 51:
+    * Me, Kenna and Ahmed met for the report.
+    * Started making the report.
+
+Week 52 2019 and week 1 2020 (Holidays):
+    * Collected matter from different sub-groups.
+    * Completed the report.
+    
+Week 2:
+    * Submitted the report.
+    
+
