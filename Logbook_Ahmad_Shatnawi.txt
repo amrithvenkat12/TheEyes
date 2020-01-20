@@ -1,0 +1,38 @@
+Logbook Ahmad Shatnawi:
+
+Week 45:
+* Project Start.
+* Joined the GitLab workspace
+* Studied about Ubuntu and tried to set up Ubuntu in my PC but it not worked in my PC. i have old PC 
+* Studied how i can work the Project with Windows, I start with Windows after a lot of problems with Ubuntu.
+
+Week 46:
+* Installed Open CV, Python and Visual Studio
+* learning about code and watching video about ADAS care with camera
+ 
+Week 47:
+* start learning about Python and Open CV 
+* reading and watching about programming to support of understanding camera perception working code
+
+Week 48 & week 49 
+* we met at Juan's home for discussion about problem we have to install Ubuntu.    
+* keep learning and watching video about python and OpenCV
+*start making code in python and OpenCV 
+
+Week 50:
+* start learning about ROS and line detection 
+*i got help from Malik, i have some issues with making running code in OpenCV and he give me some links helped me to learn more about it.
+ 
+Week 51:
+* meeting with Komal and Kanan in university we make plan for writing the report    
+
+Week 52 2019 and week 1 2020 (Holidays)
+* I make group with Kanan and Komal we start makes part of the report and structure
+* I make research about line Detection and start writing about it.
+* I wrote the report for line detection part.
+* Malik send me some video about Gazebo I start watch it and get some idea about it 
+    
+Week 2:
+* Kanan come to my home and we make the final report   
+* we made research and used video to get more information 
+* we fix the report after the feedback we get about it 
